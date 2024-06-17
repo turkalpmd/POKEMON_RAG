@@ -1,0 +1,32 @@
+{
+    "medications": [
+      {
+        "medication_group": "Critical_drugs",
+        "name": "Medication1",
+        "dosage": "100 mg",
+        "maximum_dose": "500 mg/day",
+        "infusion_dose": null,
+        "warnings": "Dikkatli kullanılmalıdır.",
+        "references": "Referans sayfa xx"
+      },
+      {
+        "medication_group": "Sedative_drugs",
+        "name": "Medication2",
+        "dosage": "10 mg",
+        "maximum_dose": "50 mg/day",
+        "infusion_dose": null,
+        "warnings": "Yan etkilerine dikkat edilmelidir.",
+        "references": "Referans sayfa yy"
+      },
+      {
+        "medication_group": "Antibiotics",
+        "name": "Paracetamol",
+        "dosage": "500 mg",
+        "maximum_dose": "4000 mg/day",
+        "infusion_dose": null,
+        "warnings": "Karaciğer yetmezliği olan hastalarda dikkatli kullanılmalıdır.",
+        "references": "Goldfrank sayfa xx"
+      }
+    ]
+  
+}
