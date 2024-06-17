@@ -4,6 +4,7 @@
         "medication_group": "Critical_drugs",
         "name": "Medication1",
         "dosage": "100 mg",
+        "frequency":"Q 8 hrs",
         "maximum_dose": "500 mg/day",
         "infusion_dose": null,
         "warnings": "Dikkatli kullanılmalıdır.",
