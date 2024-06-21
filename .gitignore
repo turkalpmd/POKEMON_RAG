@@ -18,6 +18,8 @@ lib/
 lib64/
 parts/
 sdist/
+data/data_for_tutorials/
+*.pdf
 var/
 wheels/
 share/python-wheels/
